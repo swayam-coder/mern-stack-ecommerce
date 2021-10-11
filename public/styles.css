@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  /*remember this css code to make every element attach to the border*/
+
+body{
+    overflow-x: hidden;
+}
+
+.image{
+    height: 250px;
+    width: 280px;
+    text-align: center;
+}
+
+.card-text{
+    font-size: large;
+}
+/* .mac{
+    height: 250px;
+    width: 300px;
+    text-align: center;
+} */
+
+.imageContainer{
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.border-bottom {
+    margin-bottom: 0 !important;
+}
+
+.bi-cart-check-fill{
+    margin-right: 25px;
+    margin-bottom: 5px;
+}
+
+.counter.counter-lg {
+    position: relative;
+    top: -20px !important;
+    right: 29px;
+    background-color: red;
+    color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.checkoutbtn{
+    margin-right: 30px;
+}
+
+.py-5{
+    background-color: #1d2d50;
+}
+
+.footer{
+    color: white;
+}
+
+.anchor-footer{
+    color: white;
+    text-decoration: none;
+}
+
+.cart-quant{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.cart-card{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.quantbtn{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.cart-inc{
+    margin-right: 10px;
+}
+
+.cart-dec{
+    margin-left: 10px;
+}
+
+.country-select {
+    width: 47% !important;
+}
+
+.select-row {
+    justify-content: space-around;
+}
+
+.select-row1 {
+    justify-content: flex-start;
+    margin-left: 0 !important;
+}
+
+.option-select{
+    width: 364.39px !important;
+}
+
+.note {
+    margin: 0;
+    text-align: center;
+    position: relative;
+    bottom: 130px;
+}
+
+.address-buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sideNavHeading{
+    color: #0d6efd;
+    text-align: left;
+    position: relative;    
+    left: 1.2rem;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
