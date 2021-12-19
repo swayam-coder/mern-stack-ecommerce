@@ -1,4 +1,4 @@
-# Memories | MERN Stack Social Media App
+# Shopper | React Ecommerce App
 #### Ecommerce app built by using React(Hooks + Context), CommerceJS.
 #### Deployed Site: https://swayam-ecommerce-react.netlify.app/
 
@@ -26,7 +26,7 @@
 ## Run Locally
 ### 1. Clone the repository
 ```sh
-$ git clone https://github.com/swayam-coder/memories-client.git 
+$ git clone https://github.com/swayam-coder/mern-stack-ecommerce.git
 ```
 
 ### 2. Install Dependencies
