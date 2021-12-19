@@ -14,7 +14,7 @@
 * User CRUD operations
   * Addition, Deletion, Updation operations to/from cart. 
   * Checkout Functionality.
-  * Payment Gateway using RazorPay.
+  * Payment Gateway using Stripe.
 
 ## Technologies Used
 
