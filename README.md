@@ -1,5 +1,5 @@
 # Shopper | React Ecommerce App
-#### Ecommerce app built by using React(Hooks + Context), CommerceJS.
+#### Ecommerce app built by using React (Hooks + Context), CommerceJS.
 #### Deployed Site: https://swayam-ecommerce-react.netlify.app/
 
 <!-- ### [Live demo](https://salinaka-ecommerce.web.app/) -->
